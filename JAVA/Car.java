@@ -1,6 +1,7 @@
 package JAVA;
 
-public class Car {
+public class Car 
+{
     Integer id;
     String license;
     String driver;
