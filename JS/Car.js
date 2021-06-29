@@ -4,4 +4,4 @@ function Car() {
     this.driver;
     this.passenger;
 
-}
+} 
